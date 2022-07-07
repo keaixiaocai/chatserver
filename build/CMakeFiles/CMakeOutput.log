@@ -1,0 +1,71 @@
+The system is: Linux - sh: 0: getcwd() failed: No such file or directory
+4.15.0-184-generic - sh: 0: getcwd() failed: No such file or directory
+x86_64
+Determining if the C compiler works passed with the following output:
+Change Dir: /home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_698b9/fast"
+/usr/bin/make -f CMakeFiles/cmTC_698b9.dir/build.make CMakeFiles/cmTC_698b9.dir/build
+make[1]: 进入目录“/home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp”
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_698b9.dir/testCCompiler.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_698b9.dir/testCCompiler.c.o   -c /home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp/testCCompiler.c
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Linking C executable cmTC_698b9
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_698b9.dir/link.txt --verbose=1
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+/usr/bin/gcc      CMakeFiles/cmTC_698b9.dir/testCCompiler.c.o  -o cmTC_698b9 
+make[1]: 离开目录“/home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp”
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_0cd38/fast"
+/usr/bin/make -f CMakeFiles/cmTC_0cd38.dir/build.make CMakeFiles/cmTC_0cd38.dir/build
+make[1]: 进入目录“/home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp”
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building C object CMakeFiles/cmTC_0cd38.dir/CMakeCCompilerABI.c.o
+/usr/bin/gcc    -o CMakeFiles/cmTC_0cd38.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake-3.10/Modules/CMakeCCompilerABI.c
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Linking C executable cmTC_0cd38
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0cd38.dir/link.txt --verbose=1
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+/usr/bin/gcc      CMakeFiles/cmTC_0cd38.dir/CMakeCCompilerABI.c.o  -o cmTC_0cd38 
+make[1]: 离开目录“/home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp”
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ae3d5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ae3d5.dir/build.make CMakeFiles/cmTC_ae3d5.dir/build
+make[1]: 进入目录“/home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp”
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building CXX object CMakeFiles/cmTC_ae3d5.dir/testCXXCompiler.cxx.o
+/usr/bin/g++     -o CMakeFiles/cmTC_ae3d5.dir/testCXXCompiler.cxx.o -c /home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Linking CXX executable cmTC_ae3d5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ae3d5.dir/link.txt --verbose=1
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+/usr/bin/g++       CMakeFiles/cmTC_ae3d5.dir/testCXXCompiler.cxx.o  -o cmTC_ae3d5 
+make[1]: 离开目录“/home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp”
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_315bf/fast"
+/usr/bin/make -f CMakeFiles/cmTC_315bf.dir/build.make CMakeFiles/cmTC_315bf.dir/build
+make[1]: 进入目录“/home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp”
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Building CXX object CMakeFiles/cmTC_315bf.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/g++     -o CMakeFiles/cmTC_315bf.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+Linking CXX executable cmTC_315bf
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_315bf.dir/link.txt --verbose=1
+/usr/bin/cmake: /usr/local/lib/libcurl.so.4: no version information available (required by /usr/bin/cmake)
+/usr/bin/g++       CMakeFiles/cmTC_315bf.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_315bf 
+make[1]: 离开目录“/home/iot/caiwei/chatserver/build/CMakeFiles/CMakeTmp”
+
+
