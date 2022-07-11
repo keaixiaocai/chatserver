@@ -10,5 +10,5 @@ rm ./src/server/Makefile
 rm ./src/server/cmake_install.cmake
 rm -r ./src/server/CMakeFiles
 
-#cmake .
-#make
+cmake .
+make

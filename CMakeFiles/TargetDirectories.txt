@@ -1,0 +1,10 @@
+/home/iot/caiwei/chatserver1/CMakeFiles/rebuild_cache.dir
+/home/iot/caiwei/chatserver1/CMakeFiles/edit_cache.dir
+/home/iot/caiwei/chatserver1/src/CMakeFiles/rebuild_cache.dir
+/home/iot/caiwei/chatserver1/src/CMakeFiles/edit_cache.dir
+/home/iot/caiwei/chatserver1/src/client/CMakeFiles/rebuild_cache.dir
+/home/iot/caiwei/chatserver1/src/client/CMakeFiles/ChatClient.dir
+/home/iot/caiwei/chatserver1/src/client/CMakeFiles/edit_cache.dir
+/home/iot/caiwei/chatserver1/src/server/CMakeFiles/rebuild_cache.dir
+/home/iot/caiwei/chatserver1/src/server/CMakeFiles/ChatServer.dir
+/home/iot/caiwei/chatserver1/src/server/CMakeFiles/edit_cache.dir

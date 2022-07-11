@@ -27,12 +27,14 @@ arpa/inet.h
 -
 netinet/in.h
 -
+semaphore.h
+-
+atomic
+-
 user.hpp
 /home/iot/caiwei/chatserver1/src/client/user.hpp
 gruop.hpp
 /home/iot/caiwei/chatserver1/src/client/gruop.hpp
-groupuser.hpp
-/home/iot/caiwei/chatserver1/src/client/groupuser.hpp
 public.hpp
 /home/iot/caiwei/chatserver1/src/client/public.hpp
 
